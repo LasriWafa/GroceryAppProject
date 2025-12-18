@@ -85,4 +85,14 @@ We switched from public APIs to a **Custom Firebase Backend** to ensure high-qua
 
 ---
 
-Made with ❤️ using Flutter.
+## 👥 Credits
+
+**Authors**:
+*   👩‍💻 **LASRI Wafa**
+*   👩‍💻 **AMAYOU Aya**
+
+**Context**:
+*   School Project for module: **Flutter**
+*   Supervised by: **Professor DEROUSSI Anass**
+
+---
